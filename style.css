@@ -1,0 +1,24 @@
+.heading{
+    width: 100%;
+
+}
+
+.heading h1{
+    font-size: 25px;
+    display: inline;
+    float:left;
+}
+
+.heading button{
+    float:right;
+    border: 1px solid white;
+   margin-top: 10px;
+}
+
+#sillyButton{
+    font-size:30px;
+}
+
+#status{
+    font-size: 30px;
+}
